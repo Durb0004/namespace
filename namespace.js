@@ -1,3 +1,10 @@
+/********************************
+Filename: namespace.js
+Author: @Dylan Durbano
+Description:
+Date: 10/19/2018
+*********************************/
+
 var DURB0004 = {
 
     init: function () {
